@@ -1,0 +1,6 @@
+.eunit
+*.d
+.git/
+*.plt
+.rebar3/
+erl_crash.dump

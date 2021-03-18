@@ -1,0 +1,13 @@
+{application,shuwa_public,
+             [{description,[25968,34521,20844,20849,24037,20855]},
+              {vsn,"4.0.0"},
+              {registered,[]},
+              {mod,{shuwa_public_app,[]}},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {modules,[shuwa_heap,shuwa_public_app,shuwa_public_di,
+                        shuwa_public_hexer,shuwa_public_sup,shuwa_public_time,
+                        shuwa_showdoc,shuwa_timer_task,shuwa_utils]},
+              {maintainers,[]},
+              {licenses,["Apache 2.0"]},
+              {links,[]}]}.
